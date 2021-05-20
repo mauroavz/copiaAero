@@ -1,0 +1,23 @@
+// Light colors
+$first-color: #7C4073;
+$second-color: #BAC962;
+$third-color: #F8C644;
+
+// Light backgrounds
+$background-first-color: #FAFAFA;
+$background-second-color: #FFFFFF;
+
+// Font colors
+$font-grey-color-1: #5D5D5D;
+$font-grey-color-2: #707070;
+
+
+:export {
+  firstColor: $first-color;
+  secondColor: $second-color;
+  thirdColor: $third-color;
+  backgroundFirstColor: $background-first-color;
+  backgroundSecondColor: $background-second-color;
+  fontGreyColor1: $font-grey-color-1;
+  fontGreyColor2: $font-grey-color-2;
+}
